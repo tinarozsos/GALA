@@ -1,11 +1,12 @@
 # GALA Conference 2024: How can the liberal arts help a world in crisis?
-## 13–15 September 2024, Bath Spa University, UK
 
-**Promoting data literacy across the liberal arts curriculum**
+**13–15 September 2024, Bath Spa University, UK**
+
+## Promoting data literacy across the liberal arts curriculum
 
 *Tina Rozsos*
 
-### [Presentation slides](slides)
+### [Presentation slides](https://tinarozsos.github.io/GALA/slides)
 ### [Repository](https://github.com/tinarozsos/GALA)
 ### Abstract
 
