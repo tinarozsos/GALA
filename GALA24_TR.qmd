@@ -11,6 +11,8 @@ format:
     footer: "github.com/tinarozsos/GALA"
     transition: fade
     background-transition: fade
+    embed-resources: true
+    controls: true
 title-slide-attributes:
     data-background-image: assets/bg/gif6.gif
     data-background-opacity: "0.4"
