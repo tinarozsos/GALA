@@ -1,0 +1,51 @@
+---
+title: "Promoting data literacy across the liberal arts curriculum"
+author: "Tina Rozsos"
+institute: "Graduate Fellow for the UCR Data Center"
+date: "2024-09-13"
+date-format: long
+format:
+  revealjs: 
+    theme: style.scss
+    logo: assets/UCRlogo.svg
+    footer: "tinarozsos.github.io/GALA/slides"
+    transition: fade
+    background-transition: fade
+    embed-resources: true
+    controls: true
+title-slide-attributes:
+    data-background-image: assets/bg/gif6.gif
+    data-background-opacity: "0.4"
+---
+
+## {.i background-image="assets/v1.png"}
+## {.i background-image="assets/v3.png"}
+## {.i background-image="assets/v250.png"}
+## {.i background-image="assets/v1000.png"}
+
+## Every discipline uses data {.c .center background-image="assets/bg/bg3.png"}
+
+## Every student benefits from data literacy skills {.c .center background-image="assets/bg/bg4.png"}
+
+## {background-iframe="https://ucrdatacenter.github.io"}
+
+## Our mission {.c background-image="assets/bg/bg8.png"}
+
+## Data encounters {.c background-image="assets/bg/bg14.png"}
+
+## Apprenticeship program {.c background-image="assets/bg/bg18.png"}
+
+## Resources and support {.c background-image="assets/bg/bg37.png"}
+
+## Future directions {.c background-image="assets/bg/bg47.png"}
+
+## Thank you! {.e background-image="assets/bg/gif5.gif" background-opacity="0.3"}
+
+::: r-fit-text
+Find us [ucrdatacenter.github.io](https://ucrdatacenter.github.io)
+:::
+::: r-fit-text
+Slides are available at [tinarozsos.github.io/GALA/slides](https://tinarozsos.github.io/GALA/slides)
+:::
+::: footer
+:::
