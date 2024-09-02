@@ -1,0 +1,108 @@
+/*-- scss:defaults --*/
+
+// https://quarto.org/docs/presentations/revealjs/themes.html#saas-variables
+// https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss
+
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,500;1,500&display=swap');
+
+// Custom colors
+$theme-red: #dc1624;
+$theme-dark: #252525;
+$theme-mid: #9c9191;
+$theme-highlight: #f2a426;
+
+// colors
+$body-bg: white !default;
+$body-color: $theme-dark !default;
+$text-muted: $theme-mid !default;
+$link-color: $theme-red !default;
+
+// headings
+$presentation-heading-font: 'DM Sans', sans-serif !default;
+$presentation-heading-color: $theme-dark !default;
+
+/*-- scss:rules --*/
+
+.reveal .footer {
+  font-size: 0.5em !important;
+}
+
+.reveal .slide-logo {
+  height: 75px !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+// Annotation link
+.annotation-link {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  font-size: 75px;
+}
+
+// When `#| output-location: column` is set, it is no longer 100% height
+.reveal .column-output-location .column:first-of-type div.sourceCode {
+  height: unset !important;
+}
+
+.reveal .slide blockquote {
+  color: $theme-mid;
+}
+
+.center-v {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+img {
+  max-height: unset;
+  max-width: unset;
+}
+
+@mixin background-full {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.c {
+  @include background-full;
+  h2 {
+    text-align: center;
+    font-size: 2em;
+  }
+  h3 {
+    color: $theme-mid;
+    text-align: center;
+    font-size: 1.25em;
+  }
+}
+
+.i {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.e {
+  @include background-full;
+  h2, h3, h4, h5, p, pre {
+    text-align: center;
+    font-weight: 700;
+  }
+  h2 {
+    margin-top: 100px;
+    font-size: 3.5em;
+  }
+  p {
+    color: $theme-mid;
+    font-size: 1.25em;
+  }
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
