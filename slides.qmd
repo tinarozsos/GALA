@@ -11,7 +11,6 @@ format:
     footer: "tinarozsos.github.io/GALA"
     transition: fade
     background-transition: fade
-    auto-stretch: false
     controls: true
     embed-resources: true
 title-slide-attributes:
@@ -79,8 +78,9 @@ title-slide-attributes:
 
 ## Support & Resources {.c background-image="assets/bg/bg47.png"}
 ### [ucrdatacenter.github.io/tutorials](https://ucrdatacenter.github.io/tutorials)
+
 ```{=html}
-<iframe width="1050" height="550" src="https://ucrdatacenter.github.io/tutorials" title="Tutorials"></iframe>
+<iframe width="1050" height="550" src="https://ucrdatacenter.github.io/tutorials"></iframe>
 ```
 
 ## Support & Resources {.c background-image="assets/bg/bg52.png"}
