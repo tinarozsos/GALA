@@ -52,15 +52,37 @@ $presentation-heading-color: $theme-dark !default;
   color: $theme-mid;
 }
 
+
+.highlight-last  {
+  color: $theme-mid;
+  .current-fragment {
+    color: $theme-dark;
+  }
+}
+
 .center-v {
   display:flex;
   justify-content:center;
   align-items:center;
 }
 
+.center-h {
+  text-align:center;
+}
+
 img {
-  max-height: unset;
+  max-height: unset !important;
+  max-width: unset !important;
+}
+
+.box {
   max-width: unset;
+  max-height: unset;
+  float: left;
+  height: 400px;
+  width: 900px;
+  background-color: rgb(255, 240, 240, 0.75);
+  clear: both;
 }
 
 @mixin background-full {
@@ -78,7 +100,7 @@ img {
   h3 {
     color: $theme-mid;
     text-align: center;
-    font-size: 1.25em;
+    font-size: 1.15em;
   }
 }
 

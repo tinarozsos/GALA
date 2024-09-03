@@ -8,11 +8,12 @@ format:
   revealjs: 
     theme: style.scss
     logo: assets/UCRlogo.svg
-    footer: "tinarozsos.github.io/GALA/slides"
+    footer: "tinarozsos.github.io/GALA"
     transition: fade
     background-transition: fade
-    embed-resources: true
+    auto-stretch: false
     controls: true
+    embed-resources: true
 title-slide-attributes:
     data-background-image: assets/bg/gif6.gif
     data-background-opacity: "0.4"
@@ -29,23 +30,81 @@ title-slide-attributes:
 
 ## {background-iframe="https://ucrdatacenter.github.io"}
 
-## Our mission {.c background-image="assets/bg/bg8.png"}
+## Our Mission {.c .center-v background-image="assets/bg/bg8.png"}
 
-## Data encounters {.c background-image="assets/bg/bg14.png"}
+::: {.fragment .center-h style="margin-top:50px;"}
+**We teach students to "think with data"**
+:::
+::: {.fragment .center-h style="margin-bottom:50px;"}
+**with a liberal arts teaching philosophy**
+:::
+::: {.incremental}
+- Across-the-curriculum approach
+- Interdisciplinarity & disciplinary relevance of data science
+- Real problems; hands-on experience
+:::
 
-## Apprenticeship program {.c background-image="assets/bg/bg18.png"}
+## Data Encounters {.c background-image="assets/bg/bg14.png"}
 
-## Resources and support {.c background-image="assets/bg/bg37.png"}
+![](assets/antq1.jpg){.absolute top="15%" right="-30%" height="650px"}
+![](assets/antq4.jpg){.absolute top="15%" right="50%" height="650px"}
 
-## Future directions {.c background-image="assets/bg/bg47.png"}
+::: {.fragment}
+::: {.incremental .absolute left="0%" top="27%" style="padding: 0.25em 0.25em; background-color: rgba(255, 225, 225, 0.75);"}
+1. Find a UCR course with a supportive instructor
+1. Find a research question and data relevant to the course
+1. Develop hands-on workshops to guide students through answering the research question
+1. Develop assignments so students practice their new skills
+:::
+:::
+
+## Apprenticeship Program {.c background-image="assets/bg/bg18.png"}
+
+::: {.fragment .center-h style="margin-top:20px;"}
+**Academic internship for undergraduate students**
+:::
+::: {.incremental}
+  - Data encounters
+  - Faculty research projects
+  - University admin projects (e.g. data-driven recruitment)
+:::
+::: {.fragment .center-h}
+**4-week intensive program**
+:::
+::: {.incremental}
+  - Data science workshops
+  - Project work
+  - Supervision from content expert and Data Center
+:::
+
+## Support & Resources {.c background-image="assets/bg/bg47.png"}
+### [ucrdatacenter.github.io/tutorials](https://ucrdatacenter.github.io/tutorials)
+```{=html}
+<iframe width="1050" height="550" src="https://ucrdatacenter.github.io/tutorials" title="Tutorials"></iframe>
+```
+
+## Support & Resources {.c background-image="assets/bg/bg52.png"}
+### Office hours
+
+![](assets/office.png){.absolute top="23%" right="78%" height="530px"}
+![](assets/antq3.jpg){.absolute top="23%" right="-18%" height="530px"}
+
+## Future Directions {.c background-image="assets/bg/bg47.png"}
+
+::: {.incremental style="margin-top:50px;"}
+- Improve visibility, community engagement
+- Organize open workshops for students and faculty
+- Expand our online tutorials and resources
+- Collaborate with similar programs at other universities
+:::
 
 ## Thank you! {.e background-image="assets/bg/gif5.gif" background-opacity="0.3"}
 
 ::: r-fit-text
-Find us [ucrdatacenter.github.io](https://ucrdatacenter.github.io)
+Find us at [ucrdatacenter.github.io](https://ucrdatacenter.github.io)
 :::
 ::: r-fit-text
-Slides are available at [tinarozsos.github.io/GALA/slides](https://tinarozsos.github.io/GALA/slides)
+Slides are available at [tinarozsos.github.io/GALA](https://tinarozsos.github.io/GALA)
 :::
 ::: footer
 :::
