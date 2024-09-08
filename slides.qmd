@@ -98,7 +98,7 @@ title-slide-attributes:
 - Collaborate with similar programs at other universities
 :::
 
-## Thank you! {.e background-image="assets/bg/gif5.gif" background-opacity="0.3"}
+## Thank you! {.e background-image="assets/bg/gif5.gif" background-opacity="0.4"}
 
 ::: r-fit-text
 Find us at [ucrdatacenter.github.io](https://ucrdatacenter.github.io)
