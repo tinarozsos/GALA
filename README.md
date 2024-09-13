@@ -8,6 +8,10 @@
 
 ### [Presentation slides](https://tinarozsos.github.io/GALA/slides)
 ### [Repository](https://github.com/tinarozsos/GALA)
+### Contact
+
+Find me at [t.rozsos@ucr.nl](mailto:t.rozsos@ucr.nl), or reach out to the UCR Data Center at [datacenter@ucr.nl](mailto:datacenter@ucr.nl).
+
 ### Abstract
 
 With the rise of AI, Big Data, and other technological developments, higher education institutions increasingly face the challenge of how to give students a skill set that allows them to succeed in this fast-changing and increasingly data-driven world. To prepare students for a modern world where transferable skills like data literacy – the ability to “think with data” – are essential, we established the UCR Data Center (DC). In the past three years we learned best practices both from our own experiences and from observing other liberal arts colleges with initiatives that promote data literacy across the curriculum and beyond. As a next step, we hope to share what we have learned so far in this attempt at improving data literacy in a liberal arts and sciences college.
